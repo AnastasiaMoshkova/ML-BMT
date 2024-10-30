@@ -11,4 +11,4 @@
 |7|14.12.24|Дерево решений, кросс-валидации, подбор оптимальынх параметров|||
 |8|21.12.24|Ансамблевые методы, лес, бустинг|||
 
-[Журнал] (https://docs.google.com/spreadsheets/d/1LElcEz02zLLxudq-PYzMB_eIGBjnCondcVcDqWnhuTw/edit?usp=sharing)
+[Журнал](https://docs.google.com/spreadsheets/d/1LElcEz02zLLxudq-PYzMB_eIGBjnCondcVcDqWnhuTw/edit?usp=sharing)
