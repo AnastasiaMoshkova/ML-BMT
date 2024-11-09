@@ -5,7 +5,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 |1|02.11.24|Методы формирования признаков, простейшая работа с изображением, матрицы смежности, матрицы длин серий, ЛБШ|[Семинар](https://drive.google.com/file/d/1K85_06LUkwdaOV4kVmPlfGvi7E2PdI3d/view?usp=sharing)|[ЛР](https://drive.google.com/file/d/10-SUcrIOLYsvz0SmtdKODAl2TB3Lp9t7/view?usp=sharing)|
 |2|09.11.24|Понятие свертки, фильры Габора, фильтры Хаара, интегральное изображение, HOG|[Семинар](https://drive.google.com/file/d/1wfSdrJlUcNU0JQHzL_1ZaRlTXHDNKUnd/view?usp=sharing)|[ЛР](https://drive.google.com/file/d/16CEAO1k5w3kW88aPCqXwJM4ZefVuuEmc/view?usp=sharing)|
-|3|16.11.24|Кореляционная матрица, метод главных компонент (МГК)|||
+|3|16.11.24|Кореляционная матрица, метод главных компонент (МГК)|[Семинар](https://drive.google.com/file/d/1KXLNZd5azhlTWHEA_SVsjg5t_tTG4JcA/view?usp=sharing)|[ЛР](https://drive.google.com/file/d/1KXLNZd5azhlTWHEA_SVsjg5t_tTG4JcA/view?usp=sharing)|
 |4|23.11.24|ЛДА, снижение размерности|||
 |5|30.11.24|Задача классификации, линейный классификатор, метрики, матрица ошибок, препроцессинг данных, отбор признаков|||
 |6|7.12.24|Наивный Байес, k-NN|||
