@@ -9,7 +9,7 @@
 |4|23.11.24|ЛДА, снижение размерности|[Семинар](https://drive.google.com/file/d/1tEtAA9BnKnDioaCxpXAthCwE5o1MI8xe/view?usp=sharing)|[ЛР](https://drive.google.com/file/d/16m6NfL4sXaLLCuTDrTzfjS-J5CF9D1oU/view?usp=sharing)|
 |5|30.11.24|Задача классификации, Наивный Байес, метрики, матрица ошибок|[Семинар](https://drive.google.com/file/d/1DRE21n9Z_ZTnXcdRsSggRw_dSyya3DEw/view?usp=sharing)|[ЛР](https://drive.google.com/file/d/1vX-g42-tYbfP3LCBf4z0gimJohSKylZE/view?usp=sharing)|
 |6|7.12.24|k-NN, подбор оптимальных параметров, линейный классификатор, QDA|[Семинар](https://drive.google.com/file/d/12N_wiieqH4fG692VD8wN6b7OCyg5BhQk/view?usp=sharing)|[ЛР](https://drive.google.com/file/d/1dHBbYCMfQKGOKDWQ3ypmlvm5DoYwysya/view?usp=sharing)|
-|7|14.12.24|Дерево решений, кросс-валидации, ансамблевые методы (лес)|||
+|7|14.12.24|Дерево решений, кросс-валидации, ансамблевые методы (лес)|[Семинар ч.1](https://drive.google.com/file/d/15vDHR2vFixcewZVSuF5ned5oYvIua5zV/view?usp=sharing) [Семинар ч.2](https://drive.google.com/file/d/1trviWOl5frDf031Q4rrh5Bf4WJx_QTzA/view?usp=sharing)|[ЛР](https://drive.google.com/file/d/17knZHsA2rNhOLoYR7PynyArqF_bRmJb7/view?usp=sharing)|
 |8|21.12.24|Логистическая регрессия, ROC-AUC|||
 
 [Журнал](https://docs.google.com/spreadsheets/d/1LElcEz02zLLxudq-PYzMB_eIGBjnCondcVcDqWnhuTw/edit?usp=sharing)
